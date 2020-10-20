@@ -1,4 +1,4 @@
-# React-Chat
+# Simple React-Chat Apps
 Simple chat apps with ReactJs and Socket.io
 
 Stack technologies :
